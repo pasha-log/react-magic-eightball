@@ -1,0 +1,15 @@
+.Eightball {
+	/* background-color: black; */
+	width: 36rem;
+	height: 36rem;
+	border-radius: 50%;
+	color: white;
+}
+
+.title-holder, .Eightball {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
