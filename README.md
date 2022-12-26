@@ -1,6 +1,6 @@
 # React Magic Eightball
 
-<img src='magicEightBall/public/eightball.png' alt='' height='350' width='650'>
+<img src='magicEightBall/public/eightball.png' alt='' height='350' width='800'>
 
 ## Description: 
 
